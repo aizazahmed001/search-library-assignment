@@ -1,4 +1,4 @@
-package test.java.search;
+package search;
 
 public class InterpolationSearch {
     public int search(int[] arr, int target) {

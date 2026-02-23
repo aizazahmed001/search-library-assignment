@@ -1,4 +1,4 @@
-package test.java.search;
+package search;
 
 public class LinearSearch {
     public int search(int[] arr, int target) {
